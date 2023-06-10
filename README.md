@@ -6,7 +6,7 @@ This project is a simple simulation of a pixel population with the ability to re
 
 To run this project, the following components need to be installed:
 
-- Python 3.x
+- Python 3.10.x (USED)
 - Pygame library
 - Matplotlib library
 
