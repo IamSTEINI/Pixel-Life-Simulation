@@ -14,7 +14,7 @@ death_probability = 0.3  #0.3 / 1
 
 pygame.init()
 window = pygame.display.set_mode(WINDOW_SIZE)
-pygame.display.set_caption("Pixel-Lebenssimulation")
+pygame.display.set_caption("Pixel life simulation")
 
 num_occupied = min(POPULATION_SIZE, GRID_SIZE * GRID_SIZE)
 
