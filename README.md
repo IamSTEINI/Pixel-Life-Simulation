@@ -1,8 +1,12 @@
-# Pixel Life Simulation
+# 🟦 Pixel Life Simulation 🟩
+
+🟥🟧🟨🟩🟦🟪🟫⬛⬜
 
 This project is a simple simulation of a pixel population with the ability to reproduce. The pixels are represented on a 2D grid and can reproduce under certain conditions. The simulation is live and displays the population changes in a graphical window using Pygame and Matplotlib.
 
-## Prerequisites
+🟥🟧🟨🟩🟦🟪🟫⬛⬜
+
+## 🟥Prerequisites
 
 To run this project, the following components need to be installed:
 
@@ -10,7 +14,7 @@ To run this project, the following components need to be installed:
 - Pygame library
 - Matplotlib library
 
-## Installation
+## 🟧Installation
 
 1. Clone the repository to your local machine and use:
     ```bash
@@ -27,7 +31,8 @@ To run this project, the following components need to be installed:
 
 4. Run the command `python main.py` to start the simulation.
 
-## Functionality
+## 🟨Functionality
+
 
 The Pixel Life Simulation is based on a simple algorithmic logic:
 
@@ -47,7 +52,7 @@ The Pixel Life Simulation is based on a simple algorithmic logic:
 
 8. The simulation ends when there are no more pixels that can reproduce or when the specified number of days is reached.
 
-## Customization Options
+## 🟩Customization Options
 
 - You can adjust the size of the grid (**GRID_SIZE**) to change the size of the map.
 
@@ -61,27 +66,26 @@ The Pixel Life Simulation is based on a simple algorithmic logic:
 
 - The colors of the pixels can be customized by modifying the values in the `dna` list.
 #
-## Visualization
+## 🟦Visualization
 
 The simulation displays the changes in population and the most frequently occurring DNA in the console. Additionally, a line diagram is generated using Matplotlib, showing the frequencies of each DNA variant over time.
 
-## License
+## 🟪License
 
 This project is licensed under the **MIT License**. For more information, see the [LICENSE](LICENSE) file.
 
-## Authors
+## 🟫Authors
 
 This project was developed by me ( <a href="https://github.com/IamSTEINI/">**Stein**</a> ).
 
-## Troubleshooting
+## ⬛Troubleshooting
 
 If you encounter any issues or errors while running the simulation, make sure that you have installed the required dependencies (**Python**, **Pygame**, and **Matplotlib**) and that they are up to date.
 
-#
+<br>
 
 
-
-## Preview
+# ⬜Preview
 <details>
   <summary>Images</summary>
 
